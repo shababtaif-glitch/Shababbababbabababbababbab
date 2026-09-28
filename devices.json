@@ -1,0 +1,80 @@
+{
+    "7953601681": {
+        "unique_device_id": "Google|01e9c6aa-8b10-4d0b-91cc-eb83e7b7d906",
+        "brand": "Realme",
+        "model": "RMX3700",
+        "gpu_renderer": "Mali-G710",
+        "system_software": "Android OS 14 / API-34",
+        "screen_width": 1280,
+        "screen_height": 2400,
+        "screen_dpi": "413",
+        "memory": 5883,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 2736 | 7",
+        "client_ip": "136.10.209.72"
+    },
+    "7953700176": {
+        "unique_device_id": "Google|b01b539f-3104-4cc2-b755-3cddbf90679f",
+        "brand": "Xiaomi",
+        "model": "2201122G",
+        "gpu_renderer": "Adreno (TM) 730",
+        "system_software": "Android OS 13 / API-33",
+        "screen_width": 1280,
+        "screen_height": 3200,
+        "screen_dpi": "347",
+        "memory": 3355,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 2501 | 7",
+        "client_ip": "134.240.100.170"
+    },
+    "7954962264": {
+        "unique_device_id": "Google|49043b46-7f7b-4b55-86fa-9356a6dbe86a",
+        "brand": "Xiaomi",
+        "model": "2201122G",
+        "gpu_renderer": "Adreno (TM) 730",
+        "system_software": "Android OS 13 / API-33",
+        "screen_width": 1280,
+        "screen_height": 2400,
+        "screen_dpi": "420",
+        "memory": 5720,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 3083 | 9",
+        "client_ip": "201.24.160.93"
+    },
+    "7955581311": {
+        "unique_device_id": "Google|8dfc499e-88a0-47b5-b952-568cb7d5dea2",
+        "brand": "Vivo",
+        "model": "V2203",
+        "gpu_renderer": "Mali-G710",
+        "system_software": "Android OS 12 / API-31",
+        "screen_width": 720,
+        "screen_height": 2400,
+        "screen_dpi": "338",
+        "memory": 3905,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 2375 | 10",
+        "client_ip": "191.63.161.231"
+    },
+    "7959555526": {
+        "unique_device_id": "Google|6987aa9f-2525-45de-9cd2-9adcec035552",
+        "brand": "OnePlus",
+        "model": "CPH2451",
+        "gpu_renderer": "Adreno (TM) 740",
+        "system_software": "Android OS 13 / API-33",
+        "screen_width": 1080,
+        "screen_height": 1600,
+        "screen_dpi": "324",
+        "memory": 3497,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 2945 | 7",
+        "client_ip": "138.53.121.47"
+    },
+    "7959914121": {
+        "unique_device_id": "Google|28a0a0d4-a7f8-45d6-ab98-751a4c728474",
+        "brand": "Vivo",
+        "model": "V2203",
+        "gpu_renderer": "Mali-G710",
+        "system_software": "Android OS 12 / API-31",
+        "screen_width": 1440,
+        "screen_height": 2400,
+        "screen_dpi": "368",
+        "memory": 6081,
+        "processor_details": "ARM64 FP ASIMD AES VMH | 3064 | 11",
+        "client_ip": "122.186.195.131"
+    }
+}
